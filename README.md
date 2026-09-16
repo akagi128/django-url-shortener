@@ -3,11 +3,13 @@ Running Locally
 Clone the repository:
 
 git clone https://github.com/akagi128/django-url-shortener.git
+
 cd django-url-shortener
 
 Create and activate a virtual environment:
 
 python3 -m venv env
+
 source env/bin/activate
 
 Install Django:
